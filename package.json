@@ -36,7 +36,6 @@
     "palette:clean": "git checkout HEAD -- dist",
     "palette:test": "jest test/palette.test.js",
     "palette:watch": "onchange builders/json.js data/color-definitions.js -- yarn palette:build:_watch",
-    "prepare": "husky install; yarn calypso",
     "start": "yarn docs:watch",
     "svgo": "svgo --config=svgo.config.js",
     "svgo:docs": "yarn svgo --folder docs/source --recursive",

@@ -1,0 +1,91 @@
+.tile {
+  position: relative;
+  flex: 1;
+  padding: 1.25em 0;
+  font-size: 0.65em;
+  text-align: center;
+  overflow: hidden;
+  transition: 0.15s ease-out;
+  transition-property: border-radius, box-shadow, transform;
+  user-select: none;
+  cursor: pointer;
+
+  @include media-breakpoint-up(md) {
+    padding: 1.65em 0 1.5em;
+  }
+
+  @include media-breakpoint-up(lg) {
+    font-size: 0.85em;
+  }
+
+  @include media-breakpoint-up(xl) {
+    font-size: 1em;
+  }
+
+  &:hover {
+    z-index: 1;
+    border-radius: 4px;
+    box-shadow: 0 0 36px rgba(#000, 0.35);
+    transform: scale(1.25);
+  }
+
+  &:active {
+    transform: scale(1.195);
+    transition: none;
+  }
+
+  :target & {
+    padding: 10em 0 10em;
+
+    &:hover {
+      transform: scale(1.15);
+    }
+
+    &:active {
+      transform: scale(1.115);
+    }
+  }
+}
+
+.tile--empty {
+  z-index: -1;
+  background: $studio-gray-0;
+  pointer-events: none;
+}
+
+.tile--preview {
+  padding: 1em 0;
+}
+
+.tile--featured {
+  flex: 5;
+
+  @include media-breakpoint-up(md) {
+    flex: 2.5;
+  }
+}
+
+.tile--deprecated .tile__title {
+  &, span {
+    text-decoration: line-through;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: 0.15em;
+  }
+}
+
+.tile__meta {
+  display: none;
+
+  @include media-breakpoint-up(md) {
+    display: block;
+    font-size: 0.85em;
+  }
+}
+
+.tile__meta--tiny {
+  font-size: 0.65em;
+}
+
+.tile--preview .tile__meta {
+  display: none;
+}

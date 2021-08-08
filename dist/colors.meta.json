@@ -1,0 +1,556 @@
+{
+  "version": "0.1.0",
+  "colors": [
+    [
+      {
+        "name": "White",
+        "value": "#fff",
+        "_meta": {
+          "special": true
+        }
+      },
+      {
+        "name": "Black",
+        "value": "#000",
+        "_meta": {
+          "special": true
+        }
+      }
+    ],
+    [
+      {
+        "name": "WordPress Blue",
+        "value": "#2271b1",
+        "_meta": {
+          "alias": true,
+          "baseName": "WordPress Blue",
+          "index": 50
+        }
+      },
+      {
+        "name": "WordPress Blue 0",
+        "value": "#f0f6fc",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 0
+        }
+      },
+      {
+        "name": "WordPress Blue 5",
+        "value": "#c5d9ed",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 5
+        }
+      },
+      {
+        "name": "WordPress Blue 10",
+        "value": "#9ec2e6",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 10
+        }
+      },
+      {
+        "name": "WordPress Blue 20",
+        "value": "#72aee6",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 20
+        }
+      },
+      {
+        "name": "WordPress Blue 30",
+        "value": "#4f94d4",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 30
+        }
+      },
+      {
+        "name": "WordPress Blue 40",
+        "value": "#3582c4",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 40
+        }
+      },
+      {
+        "name": "WordPress Blue 50",
+        "value": "#2271b1",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 50
+        }
+      },
+      {
+        "name": "WordPress Blue 60",
+        "value": "#135e96",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 60
+        }
+      },
+      {
+        "name": "WordPress Blue 70",
+        "value": "#0a4b78",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 70
+        }
+      },
+      {
+        "name": "WordPress Blue 80",
+        "value": "#043959",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 80
+        }
+      },
+      {
+        "name": "WordPress Blue 90",
+        "value": "#01263a",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 90
+        }
+      },
+      {
+        "name": "WordPress Blue 100",
+        "value": "#00131c",
+        "_meta": {
+          "baseName": "WordPress Blue",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Gray",
+        "value": "#646970",
+        "_meta": {
+          "alias": true,
+          "baseName": "Gray",
+          "index": 50
+        }
+      },
+      {
+        "name": "Gray 0",
+        "value": "#f6f7f7",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 0
+        }
+      },
+      {
+        "name": "Gray 5",
+        "value": "#dcdcde",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 5
+        }
+      },
+      {
+        "name": "Gray 10",
+        "value": "#c3c4c7",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 10
+        }
+      },
+      {
+        "name": "Gray 20",
+        "value": "#a7aaad",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 20
+        }
+      },
+      {
+        "name": "Gray 30",
+        "value": "#8c8f94",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 30
+        }
+      },
+      {
+        "name": "Gray 40",
+        "value": "#787c82",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 40
+        }
+      },
+      {
+        "name": "Gray 50",
+        "value": "#646970",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 50
+        }
+      },
+      {
+        "name": "Gray 60",
+        "value": "#50575e",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 60
+        }
+      },
+      {
+        "name": "Gray 70",
+        "value": "#3c434a",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 70
+        }
+      },
+      {
+        "name": "Gray 80",
+        "value": "#2c3338",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 80
+        }
+      },
+      {
+        "name": "Gray 90",
+        "value": "#1d2327",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 90
+        }
+      },
+      {
+        "name": "Gray 100",
+        "value": "#101517",
+        "_meta": {
+          "baseName": "Gray",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Red",
+        "value": "#d63638",
+        "_meta": {
+          "alias": true,
+          "baseName": "Red",
+          "index": 50
+        }
+      },
+      {
+        "name": "Red 0",
+        "value": "#fcf0f1",
+        "_meta": {
+          "baseName": "Red",
+          "index": 0
+        }
+      },
+      {
+        "name": "Red 5",
+        "value": "#facfd2",
+        "_meta": {
+          "baseName": "Red",
+          "index": 5
+        }
+      },
+      {
+        "name": "Red 10",
+        "value": "#ffabaf",
+        "_meta": {
+          "baseName": "Red",
+          "index": 10
+        }
+      },
+      {
+        "name": "Red 20",
+        "value": "#ff8085",
+        "_meta": {
+          "baseName": "Red",
+          "index": 20
+        }
+      },
+      {
+        "name": "Red 30",
+        "value": "#f86368",
+        "_meta": {
+          "baseName": "Red",
+          "index": 30
+        }
+      },
+      {
+        "name": "Red 40",
+        "value": "#e65054",
+        "_meta": {
+          "baseName": "Red",
+          "index": 40
+        }
+      },
+      {
+        "name": "Red 50",
+        "value": "#d63638",
+        "_meta": {
+          "baseName": "Red",
+          "index": 50
+        }
+      },
+      {
+        "name": "Red 60",
+        "value": "#b32d2e",
+        "_meta": {
+          "baseName": "Red",
+          "index": 60
+        }
+      },
+      {
+        "name": "Red 70",
+        "value": "#8a2424",
+        "_meta": {
+          "baseName": "Red",
+          "index": 70
+        }
+      },
+      {
+        "name": "Red 80",
+        "value": "#691c1c",
+        "_meta": {
+          "baseName": "Red",
+          "index": 80
+        }
+      },
+      {
+        "name": "Red 90",
+        "value": "#451313",
+        "_meta": {
+          "baseName": "Red",
+          "index": 90
+        }
+      },
+      {
+        "name": "Red 100",
+        "value": "#240a0a",
+        "_meta": {
+          "baseName": "Red",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Yellow",
+        "value": "#9d6e00",
+        "_meta": {
+          "alias": true,
+          "baseName": "Yellow",
+          "index": 50
+        }
+      },
+      {
+        "name": "Yellow 0",
+        "value": "#fcf9e8",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 0
+        }
+      },
+      {
+        "name": "Yellow 5",
+        "value": "#f5e6b3",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 5
+        }
+      },
+      {
+        "name": "Yellow 10",
+        "value": "#f2d76b",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 10
+        }
+      },
+      {
+        "name": "Yellow 20",
+        "value": "#f0c930",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 20
+        }
+      },
+      {
+        "name": "Yellow 30",
+        "value": "#deb100",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 30
+        }
+      },
+      {
+        "name": "Yellow 40",
+        "value": "#c08c00",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 40
+        }
+      },
+      {
+        "name": "Yellow 50",
+        "value": "#9d6e00",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 50
+        }
+      },
+      {
+        "name": "Yellow 60",
+        "value": "#7d5600",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 60
+        }
+      },
+      {
+        "name": "Yellow 70",
+        "value": "#674600",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 70
+        }
+      },
+      {
+        "name": "Yellow 80",
+        "value": "#4f3500",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 80
+        }
+      },
+      {
+        "name": "Yellow 90",
+        "value": "#320",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 90
+        }
+      },
+      {
+        "name": "Yellow 100",
+        "value": "#1c1300",
+        "_meta": {
+          "baseName": "Yellow",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Green",
+        "value": "#008a20",
+        "_meta": {
+          "alias": true,
+          "baseName": "Green",
+          "index": 50
+        }
+      },
+      {
+        "name": "Green 0",
+        "value": "#edfaef",
+        "_meta": {
+          "baseName": "Green",
+          "index": 0
+        }
+      },
+      {
+        "name": "Green 5",
+        "value": "#b8e6bf",
+        "_meta": {
+          "baseName": "Green",
+          "index": 5
+        }
+      },
+      {
+        "name": "Green 10",
+        "value": "#68de7c",
+        "_meta": {
+          "baseName": "Green",
+          "index": 10
+        }
+      },
+      {
+        "name": "Green 20",
+        "value": "#1ed14b",
+        "_meta": {
+          "baseName": "Green",
+          "index": 20
+        }
+      },
+      {
+        "name": "Green 30",
+        "value": "#00ba37",
+        "_meta": {
+          "baseName": "Green",
+          "index": 30
+        }
+      },
+      {
+        "name": "Green 40",
+        "value": "#00a32a",
+        "_meta": {
+          "baseName": "Green",
+          "index": 40
+        }
+      },
+      {
+        "name": "Green 50",
+        "value": "#008a20",
+        "_meta": {
+          "baseName": "Green",
+          "index": 50
+        }
+      },
+      {
+        "name": "Green 60",
+        "value": "#007017",
+        "_meta": {
+          "baseName": "Green",
+          "index": 60
+        }
+      },
+      {
+        "name": "Green 70",
+        "value": "#005c12",
+        "_meta": {
+          "baseName": "Green",
+          "index": 70
+        }
+      },
+      {
+        "name": "Green 80",
+        "value": "#00450c",
+        "_meta": {
+          "baseName": "Green",
+          "index": 80
+        }
+      },
+      {
+        "name": "Green 90",
+        "value": "#003008",
+        "_meta": {
+          "baseName": "Green",
+          "index": 90
+        }
+      },
+      {
+        "name": "Green 100",
+        "value": "#001c05",
+        "_meta": {
+          "baseName": "Green",
+          "index": 100
+        }
+      }
+    ]
+  ]
+}

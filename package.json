@@ -5,9 +5,16 @@
   "main": "dist/colors.json",
   "style": "dist/color-variables.scss",
   "scripts": {
+    "archive": "cp dist/colors.meta.json dist-archive/colors.meta-${npm_package_version}.json",
+    "build": "yarn palette:build && yarn docs:build --quiet && yarn meta:build",
+    "clean": "yarn palette:clean",
     "docs": "yarn docs:build",
     "docs:build": "webpack",
     "docs:watch": "yarn palette:build:_watch && concurrently \"yarn palette:watch\" \"webpack serve\"",
+    "lint": "xo",
+    "meta": "yarn meta:build",
+    "meta:build": "yarn meta:build:preview",
+    "meta:build:preview": "node builders/preview-from-docs",
     "palette": "yarn palette:build",
     "palette:build": "yarn palette:build:json && yarn palette:build:css",
     "palette:build:css": "yarn palette:build:css:classes && yarn palette:build:css:fills && yarn palette:build:css:properties && yarn palette:build:css:variables",
@@ -29,7 +36,11 @@
     "palette:clean": "git checkout HEAD -- dist",
     "palette:test": "jest test/palette.test.js",
     "palette:watch": "onchange builders/json.js data/color-definitions.js -- yarn palette:build:_watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "husky install; yarn calypso",
+    "start": "yarn docs:watch",
+    "svgo": "svgo --config=svgo.config.js",
+    "svgo:docs": "yarn svgo --folder docs/source --recursive",
+    "test": "jest --all"
   },
   "repository": {
     "type": "git",

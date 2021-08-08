@@ -19,107 +19,107 @@
     ],
     [
       {
-        "name": "WordPress Blue",
+        "name": "Blue",
         "value": "#2271b1",
         "_meta": {
           "alias": true,
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 50
         }
       },
       {
-        "name": "WordPress Blue 0",
+        "name": "Blue 0",
         "value": "#f0f6fc",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 0
         }
       },
       {
-        "name": "WordPress Blue 5",
+        "name": "Blue 5",
         "value": "#c5d9ed",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 5
         }
       },
       {
-        "name": "WordPress Blue 10",
+        "name": "Blue 10",
         "value": "#9ec2e6",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 10
         }
       },
       {
-        "name": "WordPress Blue 20",
+        "name": "Blue 20",
         "value": "#72aee6",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 20
         }
       },
       {
-        "name": "WordPress Blue 30",
+        "name": "Blue 30",
         "value": "#4f94d4",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 30
         }
       },
       {
-        "name": "WordPress Blue 40",
+        "name": "Blue 40",
         "value": "#3582c4",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 40
         }
       },
       {
-        "name": "WordPress Blue 50",
+        "name": "Blue 50",
         "value": "#2271b1",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 50
         }
       },
       {
-        "name": "WordPress Blue 60",
+        "name": "Blue 60",
         "value": "#135e96",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 60
         }
       },
       {
-        "name": "WordPress Blue 70",
+        "name": "Blue 70",
         "value": "#0a4b78",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 70
         }
       },
       {
-        "name": "WordPress Blue 80",
+        "name": "Blue 80",
         "value": "#043959",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 80
         }
       },
       {
-        "name": "WordPress Blue 90",
+        "name": "Blue 90",
         "value": "#01263a",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 90
         }
       },
       {
-        "name": "WordPress Blue 100",
+        "name": "Blue 100",
         "value": "#00131c",
         "_meta": {
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 100
         }
       }
@@ -548,6 +548,113 @@
         "value": "#001c05",
         "_meta": {
           "baseName": "Green",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Pink",
+        "value": "#c9356e",
+        "_meta": {
+          "alias": true,
+          "baseName": "Pink",
+          "index": 50
+        }
+      },
+      {
+        "name": "Pink 0",
+        "value": "#f5e9ed",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 0
+        }
+      },
+      {
+        "name": "Pink 5",
+        "value": "#f2ceda",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 5
+        }
+      },
+      {
+        "name": "Pink 10",
+        "value": "#f7a8c3",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 10
+        }
+      },
+      {
+        "name": "Pink 20",
+        "value": "#f283aa",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 20
+        }
+      },
+      {
+        "name": "Pink 30",
+        "value": "#eb6594",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 30
+        }
+      },
+      {
+        "name": "Pink 40",
+        "value": "#e34c84",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 40
+        }
+      },
+      {
+        "name": "Pink 50",
+        "value": "#c9356e",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 50
+        }
+      },
+      {
+        "name": "Pink 60",
+        "value": "#ab235a",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 60
+        }
+      },
+      {
+        "name": "Pink 70",
+        "value": "#8c1749",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 70
+        }
+      },
+      {
+        "name": "Pink 80",
+        "value": "#700f3b",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 80
+        }
+      },
+      {
+        "name": "Pink 90",
+        "value": "#4f092a",
+        "_meta": {
+          "baseName": "Pink",
+          "index": 90
+        }
+      },
+      {
+        "name": "Pink 100",
+        "value": "#260415",
+        "_meta": {
+          "baseName": "Pink",
           "index": 100
         }
       }

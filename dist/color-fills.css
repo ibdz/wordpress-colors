@@ -252,3 +252,52 @@
 .fill-green-100 {
   fill: #001c05;
 }
+
+.fill-pink-0 {
+  fill: #f5e9ed;
+}
+
+.fill-pink-5 {
+  fill: #f2ceda;
+}
+
+.fill-pink-10 {
+  fill: #f7a8c3;
+}
+
+.fill-pink-20 {
+  fill: #f283aa;
+}
+
+.fill-pink-30 {
+  fill: #eb6594;
+}
+
+.fill-pink-40 {
+  fill: #e34c84;
+}
+
+.fill-pink,
+.fill-pink-50 {
+  fill: #c9356e;
+}
+
+.fill-pink-60 {
+  fill: #ab235a;
+}
+
+.fill-pink-70 {
+  fill: #8c1749;
+}
+
+.fill-pink-80 {
+  fill: #700f3b;
+}
+
+.fill-pink-90 {
+  fill: #4f092a;
+}
+
+.fill-pink-100 {
+  fill: #260415;
+}

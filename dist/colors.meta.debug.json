@@ -19,16 +19,16 @@
     ],
     [
       {
-        "name": "WordPress Blue",
+        "name": "Blue",
         "value": "#2271b1",
         "_meta": {
           "alias": true,
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 50
         }
       },
       {
-        "name": "WordPress Blue 0",
+        "name": "Blue 0",
         "value": "#f0f6fc",
         "_meta": {
           "_debug": {
@@ -36,12 +36,12 @@
             "saturation": 0.048,
             "luminosity": 0.988
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 0
         }
       },
       {
-        "name": "WordPress Blue 5",
+        "name": "Blue 5",
         "value": "#c5d9ed",
         "_meta": {
           "_debug": {
@@ -49,12 +49,12 @@
             "saturation": 0.17,
             "luminosity": 0.93
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 5
         }
       },
       {
-        "name": "WordPress Blue 10",
+        "name": "Blue 10",
         "value": "#9ec2e6",
         "_meta": {
           "_debug": {
@@ -62,12 +62,12 @@
             "saturation": 0.31,
             "luminosity": 0.9
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 10
         }
       },
       {
-        "name": "WordPress Blue 20",
+        "name": "Blue 20",
         "value": "#72aee6",
         "_meta": {
           "_debug": {
@@ -75,12 +75,12 @@
             "saturation": 0.502,
             "luminosity": 0.9
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 20
         }
       },
       {
-        "name": "WordPress Blue 30",
+        "name": "Blue 30",
         "value": "#4f94d4",
         "_meta": {
           "_debug": {
@@ -88,12 +88,12 @@
             "saturation": 0.627,
             "luminosity": 0.83
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 30
         }
       },
       {
-        "name": "WordPress Blue 40",
+        "name": "Blue 40",
         "value": "#3582c4",
         "_meta": {
           "_debug": {
@@ -101,12 +101,12 @@
             "saturation": 0.728,
             "luminosity": 0.77
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 40
         }
       },
       {
-        "name": "WordPress Blue 50",
+        "name": "Blue 50",
         "value": "#2271b1",
         "_meta": {
           "_debug": {
@@ -114,12 +114,12 @@
             "saturation": 0.809,
             "luminosity": 0.695
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 50
         }
       },
       {
-        "name": "WordPress Blue 60",
+        "name": "Blue 60",
         "value": "#135e96",
         "_meta": {
           "_debug": {
@@ -127,12 +127,12 @@
             "saturation": 0.872,
             "luminosity": 0.59
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 60
         }
       },
       {
-        "name": "WordPress Blue 70",
+        "name": "Blue 70",
         "value": "#0a4b78",
         "_meta": {
           "_debug": {
@@ -140,12 +140,12 @@
             "saturation": 0.92,
             "luminosity": 0.47
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 70
         }
       },
       {
-        "name": "WordPress Blue 80",
+        "name": "Blue 80",
         "value": "#043959",
         "_meta": {
           "_debug": {
@@ -153,12 +153,12 @@
             "saturation": 0.953,
             "luminosity": 0.35
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 80
         }
       },
       {
-        "name": "WordPress Blue 90",
+        "name": "Blue 90",
         "value": "#01263a",
         "_meta": {
           "_debug": {
@@ -166,12 +166,12 @@
             "saturation": 0.976,
             "luminosity": 0.226
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 90
         }
       },
       {
-        "name": "WordPress Blue 100",
+        "name": "Blue 100",
         "value": "#00131c",
         "_meta": {
           "_debug": {
@@ -179,7 +179,7 @@
             "saturation": 0.99,
             "luminosity": 0.11
           },
-          "baseName": "WordPress Blue",
+          "baseName": "Blue",
           "index": 100
         }
       }
@@ -848,6 +848,173 @@
             "luminosity": 0.11
           },
           "baseName": "Green",
+          "index": 100
+        }
+      }
+    ],
+    [
+      {
+        "name": "Pink",
+        "value": "#c9356e",
+        "_meta": {
+          "alias": true,
+          "baseName": "Pink",
+          "index": 50
+        }
+      },
+      {
+        "name": "Pink 0",
+        "value": "#f5e9ed",
+        "_meta": {
+          "_debug": {
+            "hue": 340,
+            "saturation": 0.05,
+            "luminosity": 0.96
+          },
+          "baseName": "Pink",
+          "index": 0
+        }
+      },
+      {
+        "name": "Pink 5",
+        "value": "#f2ceda",
+        "_meta": {
+          "_debug": {
+            "hue": 339.81809538988267,
+            "saturation": 0.15,
+            "luminosity": 0.95
+          },
+          "baseName": "Pink",
+          "index": 5
+        }
+      },
+      {
+        "name": "Pink 10",
+        "value": "#f7a8c3",
+        "_meta": {
+          "_debug": {
+            "hue": 339.5409600421619,
+            "saturation": 0.32,
+            "luminosity": 0.97
+          },
+          "baseName": "Pink",
+          "index": 10
+        }
+      },
+      {
+        "name": "Pink 20",
+        "value": "#f283aa",
+        "_meta": {
+          "_debug": {
+            "hue": 339.1459038933311,
+            "saturation": 0.45899999999999996,
+            "luminosity": 0.95
+          },
+          "baseName": "Pink",
+          "index": 20
+        }
+      },
+      {
+        "name": "Pink 30",
+        "value": "#eb6594",
+        "_meta": {
+          "_debug": {
+            "hue": 338.6040561579719,
+            "saturation": 0.5710000000000001,
+            "luminosity": 0.92
+          },
+          "baseName": "Pink",
+          "index": 30
+        }
+      },
+      {
+        "name": "Pink 40",
+        "value": "#e34c84",
+        "_meta": {
+          "_debug": {
+            "hue": 337.88086471193253,
+            "saturation": 0.664,
+            "luminosity": 0.89
+          },
+          "baseName": "Pink",
+          "index": 40
+        }
+      },
+      {
+        "name": "Pink 50",
+        "value": "#c9356e",
+        "_meta": {
+          "_debug": {
+            "hue": 336.9416055063272,
+            "saturation": 0.737,
+            "luminosity": 0.79
+          },
+          "baseName": "Pink",
+          "index": 50
+        }
+      },
+      {
+        "name": "Pink 60",
+        "value": "#ab235a",
+        "_meta": {
+          "_debug": {
+            "hue": 335.76814385070935,
+            "saturation": 0.7929999999999999,
+            "luminosity": 0.67
+          },
+          "baseName": "Pink",
+          "index": 60
+        }
+      },
+      {
+        "name": "Pink 70",
+        "value": "#8c1749",
+        "_meta": {
+          "_debug": {
+            "hue": 334.3881756719638,
+            "saturation": 0.836,
+            "luminosity": 0.55
+          },
+          "baseName": "Pink",
+          "index": 70
+        }
+      },
+      {
+        "name": "Pink 80",
+        "value": "#700f3b",
+        "_meta": {
+          "_debug": {
+            "hue": 332.89200507588265,
+            "saturation": 0.867,
+            "luminosity": 0.44
+          },
+          "baseName": "Pink",
+          "index": 80
+        }
+      },
+      {
+        "name": "Pink 90",
+        "value": "#4f092a",
+        "_meta": {
+          "_debug": {
+            "hue": 331.39913543277765,
+            "saturation": 0.888,
+            "luminosity": 0.31
+          },
+          "baseName": "Pink",
+          "index": 90
+        }
+      },
+      {
+        "name": "Pink 100",
+        "value": "#260415",
+        "_meta": {
+          "_debug": {
+            "hue": 330,
+            "saturation": 0.9,
+            "luminosity": 0.15
+          },
+          "baseName": "Pink",
           "index": 100
         }
       }

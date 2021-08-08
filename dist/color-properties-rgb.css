@@ -73,4 +73,18 @@
   --studio-green-90-rgb: 0, 48, 8;
   --studio-green-100-rgb: 0, 28, 5;
   --studio-green-rgb: 0, 138, 32;
+
+  --studio-pink-0-rgb: 245, 233, 237;
+  --studio-pink-5-rgb: 242, 206, 218;
+  --studio-pink-10-rgb: 247, 168, 195;
+  --studio-pink-20-rgb: 242, 131, 170;
+  --studio-pink-30-rgb: 235, 101, 148;
+  --studio-pink-40-rgb: 227, 76, 132;
+  --studio-pink-50-rgb: 201, 53, 110;
+  --studio-pink-60-rgb: 171, 35, 90;
+  --studio-pink-70-rgb: 140, 23, 73;
+  --studio-pink-80-rgb: 112, 15, 59;
+  --studio-pink-90-rgb: 79, 9, 42;
+  --studio-pink-100-rgb: 38, 4, 21;
+  --studio-pink-rgb: 201, 53, 110;
 }
